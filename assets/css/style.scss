@@ -2,8 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
-.header {
-  h1 {
-   color: #ff0000;
-	}
+//header {
+//  h1 {
+//   color: cornflowerblue;
+//	}
+//}
+
+//header h1::before {
+//	content: "";
+//}
+header {
+	display: none;
 }
