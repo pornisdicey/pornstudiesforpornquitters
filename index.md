@@ -3,7 +3,7 @@
 
 By Porn is Dicey
 
-Github repo available here: https://github.com/pornisdicey/pornstudiesforpornquitters
+Github repo available here: [https://github.com/pornisdicey/pornstudiesforpornquitters](https://github.com/pornisdicey/pornstudiesforpornquitters)
 
 # Intro
 # Studies
